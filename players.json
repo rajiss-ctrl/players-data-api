@@ -1,0 +1,52 @@
+{
+  "Goalkeeper": [
+    {
+      "name": "De Gea",
+      "jersey": 1,
+      "club": "Man U"
+    }
+  ],
+  "Defender": [
+    {
+      "name": "Sagio Ramos",
+      "jersey": 4,
+      "club": "PSG"
+    }
+  ],
+  "Winger": [
+    {
+      "name": "Christiano Ronaldo",
+      "jersey": 7,
+      "club": "Man U"
+    }
+  ],
+  "Mildfielder": [
+    {
+      "name": "Mesut Ozil",
+      "jersey": 10,
+      "club": "Galatasaray"
+    },
+    {
+      "name": "Lionel Messi",
+      "jersey": 10,
+      "club": "PSG"
+    }
+  ],
+  "Strikers": [
+    {
+      "name": "Lukaka",
+      "jersey": 9,
+      "club": "Celsea"
+    },
+    {
+      "name": "kane",
+      "jersey": 9,
+      "club": "Totham hotspot"
+    },
+    {
+      "name": "Aubameyang",
+      "jersey": 14,
+      "club": "Arsenal"
+    }
+  ]
+}

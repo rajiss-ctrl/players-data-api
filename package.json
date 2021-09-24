@@ -1,0 +1,14 @@
+{
+  "name": "player-data",
+  "version": "1.0.0",
+  "description": "big players data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "rajiss-ctrl",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
